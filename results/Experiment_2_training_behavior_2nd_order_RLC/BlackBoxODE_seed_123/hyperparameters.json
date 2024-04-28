@@ -1,0 +1,1 @@
+{"data": {"dim_x": 2, "dim_y": 2, "sequence_length": 100, "stride": 25, "params": {"Nonlinear_C": true, "C": 0.1, "L": 0.001, "R": 0.1, "Rp": 1000000000.0}}, "training": {"learning_rate": 0.29020214738857436, "batch_size": 75, "epochs": 100, "epochs_pretraining": 100, "optimizer": "Adam"}, "model": {"hidden_size_ODE": 35, "layers_hidden_ODE": 1}}

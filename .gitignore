@@ -1,0 +1,14 @@
+# Ignore Python bytecode directories
+__pycache__/
+
+# Ignore IntelliJ IDEA project directory
+.idea/
+/.idea
+slurm.job
+.idea/misc.xml
+.DS_Store
+
+data/2nd_order_RLC/.DS_Store
+data/.DS_Store
+.DS_Store
+.DS_Store

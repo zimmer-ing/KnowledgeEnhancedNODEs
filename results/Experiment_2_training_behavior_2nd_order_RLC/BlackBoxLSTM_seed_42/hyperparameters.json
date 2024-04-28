@@ -1,0 +1,1 @@
+{"data": {"dim_x": 2, "dim_y": 2, "sequence_length": 100, "stride": 25, "params": {"Nonlinear_C": true, "C": 0.1, "L": 0.001, "R": 0.1, "Rp": 1000000000.0}}, "training": {"learning_rate": 0.020836453382362147, "batch_size": 25, "epochs": 100, "epochs_pretraining": 0, "optimizer": "Adam"}, "model": {"LSTM_layers": 3, "hidden_size_LSTM": 25}}

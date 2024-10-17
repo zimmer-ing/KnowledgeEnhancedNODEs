@@ -74,17 +74,17 @@ If you have any questions or issues, please open an issue in the repository. You
 ## Citation
 If you find this repo useful for your research, please consider citing the paper
 ```
-@INPROCEEDINGS{zimmering2024neuralodes,
+@INPROCEEDINGS{10711112,
   author={Zimmering, Bernd and Roche, Jan-Philipp and Niggemann, Oliver},
-  booktitle={2024 IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)}, 
+  booktitle={2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)}, 
   title={Enhancing Nonlinear Electrical Circuit Modeling with Prior Knowledge-Infused Neural ODEs}, 
   year={2024},
   volume={},
   number={},
-  pages={},
-  keywords={Neural ODEs;Prior Knowledge;Nonlinear Electrical Circuits;Machine Learning;Automation;Modeling},
-  doi={}
-}
+  pages={01-08},
+  keywords={Systematics;Accuracy;RLC circuits;Ordinary differential equations;Mathematical models;Complexity theory;Object recognition;Integrated circuit modeling;Long short term memory;Manufacturing automation;Neural ODEs;Prior Knowledge;Nonlinear Elec-trical Circuits},
+  doi={10.1109/ETFA61755.2024.10711112}}
+
 
 ```  
 
